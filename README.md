@@ -16,6 +16,8 @@ With additional service (called **process_images**) robot follows the sphere by 
     │   ├── urdf                       # urdf folder for xarco files
     │   │   ├── my_robot.gazebo
     │   │   ├── my_robot.xacro
+    │   ├── rviz                       # rviz folder for rviz configuration data
+    │   │   ├── config_file.rviz
     │   ├── world                      # world folder for world files
     │   │   ├── MyFirstRosWorld.world
     │   ├── CMakeLists.txt             # compiler instructions
